@@ -1,0 +1,26 @@
+{
+  "name": "@ull-gabriel-danid-danir-l1/ull-shape-triangle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ULL-ESIT-DSI-1617/creacion-de-paquetes-npm-gabriel-danid-danir-l1-triangle.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ULL-ESIT-DSI-1617/creacion-de-paquetes-npm-gabriel-danid-danir-l1-triangle/issues"
+  },
+  "homepage": "https://github.com/ULL-ESIT-DSI-1617/creacion-de-paquetes-npm-gabriel-danid-danir-l1-triangle#readme",
+  "dependencies": {
+    "@ull-gabriel-danid-danir-l1/ull-shape": "^1.0.0",
+    "gulp": "^3.9.1",
+    "gulp-shell": "^0.6.3",
+    "should": "^11.2.1",
+    "util": "^0.10.3"
+  }
+}
